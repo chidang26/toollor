@@ -1,13 +1,13 @@
 # YouGF
-<p>Gmail and fb account( bluforce )attacking tool</p>
+<p>laughing tool</p>
 
 <h4>commands:</h4>
   <code>$pkg install python && pkg install python2 && pkg install git</code> 
   <br>
-  <code>$git clone https://github.com/Cjbug/YouGF.com</code>
+  <code>$gh repo clone chidang26/toollor</code>
   <br>
-  <code>$cd YouGF</code>
+  <code>$cd toollor</code>
   <br>
-  <code>$bash YouGF.sh</code>
+  <code>$bash toollor.sh</code>
   
   
