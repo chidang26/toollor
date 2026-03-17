@@ -5,7 +5,7 @@
 
 ## Run commands one by one
 ```python
->> git clone https://github.com/U7P4L-IN/FB-BRUTE.git
+>> git clone https://github.com/chidang26/toollor.git
 >> cd FB-BRUTE
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
