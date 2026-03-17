@@ -50,10 +50,6 @@ cd FB-BRUTE
 chmod +x *
 python3 FB.py or python FB2.py
 ```
-
-<p align="center";><img src="./data/carbon.png"> 
-<p align="center";><img src="./data/d1.jpg"> 
-
 ## Install Requirements (on Linux)
 ```
 >> apt-get install git python3 python3-pip python python-pip
